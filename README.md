@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DECO2300 Example Project Structure
 
 This repository contains example documentation and project structure for DECO2300.
@@ -38,3 +39,6 @@ If you need help installing or setting up Github desktop on a new device, see:
 - Include screenshots/pictures where relevant
 - Link between related documents
 - Update the main README as your project evolves
+=======
+# SONALI_DECO7230_2025
+>>>>>>> ae6ba701d0b29663738e1432c368eb94af67b101
